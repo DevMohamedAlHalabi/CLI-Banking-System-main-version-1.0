@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Bank Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8C024A-E96A-48CE-A5C1-1810A1DE59E0}|Bank Projects\\Bank Projects.vcxproj|C:\\Users\\Admin\\Desktop\\Bank Projects\\Bank Projects\\Bank Projects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED8C024A-E96A-48CE-A5C1-1810A1DE59E0}|Bank Projects\\Bank Projects.vcxproj|solutionrelative:Bank Projects\\Bank Projects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank Projects.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Bank Projects\\Bank Projects\\Bank Projects.cpp",
+              "RelativeDocumentMoniker": "Bank Projects\\Bank Projects.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Bank Projects\\Bank Projects\\Bank Projects.cpp",
+              "RelativeToolTip": "Bank Projects\\Bank Projects.cpp",
+              "ViewState": "AgIAAGUCAAAAAAAAAAAwwGsCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-19T23:41:19.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

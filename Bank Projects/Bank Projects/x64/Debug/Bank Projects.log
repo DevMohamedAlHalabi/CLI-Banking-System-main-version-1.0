@@ -1,0 +1,8 @@
+﻿  Bank Projects.cpp
+C:\Users\Admin\Desktop\Bank Projects\Bank Projects\Bank Projects.cpp(41,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Admin\Desktop\Bank Projects\Bank Projects\Bank Projects.cpp(529,10): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Admin\Desktop\Bank Projects\Bank Projects\Bank Projects.cpp(637,10): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\Admin\Desktop\Bank Projects\Bank Projects\Bank Projects.cpp(389,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\Admin\Desktop\Bank Projects\Bank Projects\Bank Projects.cpp(454,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\Admin\Desktop\Bank Projects\Bank Projects\Bank Projects.cpp(507,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Bank Projects.vcxproj -> C:\Users\Admin\Desktop\Bank Projects\x64\Debug\Bank Projects.exe
